@@ -1,0 +1,1 @@
+FROM jakzal/phpqa:alpine
